@@ -7899,7 +7899,7 @@
       "parameters": [],
       "post": {
         "summary": "Set Business Public Key",
-        "operationId": "set-usiness-public-key",
+        "operationId": "set-business-public-key",
         "responses": {
           "200": {
             "description": "OK",
